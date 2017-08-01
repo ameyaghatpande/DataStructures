@@ -1,4 +1,4 @@
 # This repository has basic implementations of Following DS
-. Stack
-. Queue
-. LinkedList
+1] Stack
+2]  Queue
+3]  LinkedList
